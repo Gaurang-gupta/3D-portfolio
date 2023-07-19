@@ -25,9 +25,6 @@ import python from "./tech/python.png"
 
 import samsung from "./company/samsung.png"
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 import uber from "./uber.jpg"
 import netlix from "./netflix.jpg"
 
@@ -53,9 +50,6 @@ export {
   tailwind,
   typescript,
   threejs,
-  carrent,
-  jobit,
-  tripguide,
   python,
   samsung,
   uber,
